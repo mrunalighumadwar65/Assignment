@@ -1,0 +1,6 @@
+day 1 git session
+
+
+Stashing :- Stashing is nothing but all the changes that i have made i dont want to commit it 
+but also dont want to lose it 
+
